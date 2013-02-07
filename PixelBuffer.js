@@ -11,8 +11,6 @@ function PixelBuffer(num_pixels){
 
 	this.buffer.fill(0)
 	this.readBuffer.fill(0)
-
-	this.fillRGB(0, 0, 0)
 }
 
 /**
