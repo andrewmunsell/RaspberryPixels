@@ -1,0 +1,14 @@
+{
+	"name": "RaspberryPixels",
+	"author": "Andrew Munsell <andrew@wizardapps.net>",
+	"version": "0.0.1",
+
+	"description": "Pixel manager for the Raspberry Pi and LED pixels or strands",
+
+	"main": "index",
+
+	"dependencies": {
+		"easing": ">=0.0.3",
+		"tinycolor2": "*"
+	}
+}
