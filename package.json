@@ -1,11 +1,13 @@
 {
-	"name": "RaspberryPixels",
+	"name": "raspberrypixels",
 	"author": "Andrew Munsell <andrew@wizardapps.net>",
 	"version": "0.0.1",
 
 	"description": "Pixel manager for the Raspberry Pi and LED pixels or strands",
 
 	"main": "index",
+
+	"repository"    : {"type": "git", "url": "git://github.com/andrewmunsell/RaspberryPixels.git"},
 
 	"dependencies": {
 		"easing": ">=0.0.3",
