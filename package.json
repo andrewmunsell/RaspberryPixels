@@ -10,7 +10,6 @@
 	"repository"    : {"type": "git", "url": "git://github.com/andrewmunsell/RaspberryPixels.git"},
 
 	"dependencies": {
-		"easing": ">=0.0.3",
 		"tinycolor2": "*"
 	}
 }
