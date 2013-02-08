@@ -88,7 +88,7 @@ PixelBuffer.prototype.setPixel = function(i, pixel){
  * @param  {number} b Blue value
  */
 PixelBuffer.prototype.fillRGB = function(r, g, b){
-	this.fillRangeRGB(0, this.buffer.length / 3 - 3, r, g, b)
+	this.fillRangeRGB(0, this.buffer.length / 3, r, g, b)
 }
 
 /**
